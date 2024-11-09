@@ -75,5 +75,4 @@ const sr = ScrollReveal({
     reset: true
 });
 
-// Apply animation
 sr.reveal('.home');
